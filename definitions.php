@@ -25,7 +25,7 @@ define("COOKIE_UNIQUE_EXPIRE", 15552000);
 
 // MYSQL PARAMETERS
 define("MYSQL_HOST", "localhost");
-define("MYSQL_USERNAME", "etssuppo_advancedws");
-define("MYSQL_PASSWORD", 'M@riners2021');
-define("MYSQL_DATABASE", "etssuppo_advancedws");
+define("MYSQL_USERNAME", "");
+define("MYSQL_PASSWORD", "");
+define("MYSQL_DATABASE", "");
 define("MYSQL_PORT", "3306");
